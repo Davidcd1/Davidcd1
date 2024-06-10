@@ -1,6 +1,6 @@
 ## Olá eu sou o David, Desenvolvedor Web e Desenvolvedor de Jogos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko)](https://github.com/Davidcd1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github)](https://github.com/Davidcd1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko)](https://github.com/Davidcd1/github-readme-stats)
 
 <div style="display: inline_block"><br>
