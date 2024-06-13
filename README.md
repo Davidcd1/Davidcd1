@@ -1,5 +1,5 @@
 <h1 align="center">Olá eu sou o David</h1>
-<h3 align="center>Desenvolvedor Web e Desenvolvedor de Jogos</h3>
+<h3 align="center">Desenvolvedor Web e Desenvolvedor de Jogos</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github)](https://github.com/Davidcd1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko)](https://github.com/Davidcd1/github-readme-stats)
