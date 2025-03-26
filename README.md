@@ -11,7 +11,7 @@
   <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Icon-Csharp" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
 </div>
   
   ##
