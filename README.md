@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm David Carvalho</h1>
-<h3 align="center">Full-Stack Developer & Games Developer</h3>
+<h3 align="center">Full-Stack Developer & Game Developer</h3>
 </br></br>
 
 [![Davidcd1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github)](https://github.com/Davidcd1/github-readme-stats)
