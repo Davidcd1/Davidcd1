@@ -15,6 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko" height="170" />
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidcd1&theme=merko" alt="GitHub Streak" />
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -40,9 +43,6 @@
   <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidcd1&theme=merko" alt="GitHub Streak" />
-</div>
 <div> 
   <a href="https://www.linkedin.com/in/davidcd1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
