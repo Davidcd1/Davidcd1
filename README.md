@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko" height="170" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidcd1&theme=merko" alt="GitHub Streak" />
-</div>
 
 <br>
 
