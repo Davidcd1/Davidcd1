@@ -4,8 +4,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko&cache_seconds=1800" height="170" />
+  <img src="github-readme-stats-two-omega-60.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github" height="170" />
+  <img src="github-readme-stats-two-omega-60.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko" height="170" />
 </div>
 
 <br>
@@ -33,6 +33,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
 </div>
+
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/davidcd1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
