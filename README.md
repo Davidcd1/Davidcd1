@@ -5,7 +5,7 @@
 
   <br>
 
-  <a href="https://davidcd1.github.io/Portfolio/" target="_blank">
+  <a href="https://davidcd1.github.io" target="_blank">
     <img src="https://img.shields.io/badge/%20Portfólio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/davidcd1/" target="_blank">
