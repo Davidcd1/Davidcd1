@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-two-omega-60.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats-two-omega-60.vercel.app/api?username=Davidcd1&show_icons=true&theme=merko&count_private=true&cache_seconds=1800&v=1" height="170" />
   <img src="https://github-readme-stats-two-omega-60.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko" height="170" />
 </div>
 
