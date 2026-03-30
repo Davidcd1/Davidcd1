@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats-two-omega-60.vercel.app/api/top-langs/?username=Davidcd1&layout=donut&theme=merko&cache_seconds=1800&v=1" height="170" />
   <br>
   <img src="https://github-readme-stats-two-omega-60.vercel.app/api/streak?username=Davidcd1&theme=merko" height="170" />
+  <img src="https://github-readme-stats-two-omega-60.vercel.app/api/pin/?username=Davidcd1&repo=MiniStock&theme=merko" />
 </div>
 
 <br>
